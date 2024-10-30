@@ -1,5 +1,5 @@
 # Plunderers
 
-TPS oyunu.
+Üçüncü kişi bakış açısına sahip bir oyun.
 
-Shift ile koşabilirsiniz.
+Shift tuşu ile koşabilir ve Space tuşu ile zıplayabilirsiniz.
